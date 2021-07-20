@@ -6,10 +6,10 @@
 
 ## 💻 Getting Started
 
-To get a local copy up and running follow these simple example steps. 
+To get a local copy up and running follow these steps. 
 
 ### Prerequisites
-This is a list things you need to use the software and how to install them.
+This is a list of things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g

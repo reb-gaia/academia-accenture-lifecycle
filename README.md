@@ -20,11 +20,11 @@ This is a list of things you need to use the software and how to install them.
   ```
 
 ### Installation
-1. Clone the repository
+1. Clone the repository:
    ```sh
    git clone https://github.com/reb-gaia/academia-frontend-lifecycle
    ```
-2. Install packages
+2. Install packages:
    ```sh
    yarn install
    ```

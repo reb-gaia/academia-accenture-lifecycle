@@ -1,7 +1,7 @@
 # Life Cycle in ReactJS 💭
 
 ## 🌟 About this project
-- This project was developed in Academia Front-end, a program from Accenture to learn and practice ReactJS fundamentals.
+- This project was developed in **Academia Front-end**, a program from **Accenture** to learn and practice ReactJS fundamentals.
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## 💻 Getting Started

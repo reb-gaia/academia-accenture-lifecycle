@@ -1,10 +1,10 @@
-# Life Cycle in ReactJS
+# Life Cycle in ReactJS 💭
 
-## About this project
+## 🌟 About this project
 - This project was developed in Academia Front-end, a program from Accenture to learn and practice ReactJS fundamentals.
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Getting Started
+## 💻 Getting Started
 
 To get a local copy up and running follow these simple example steps. 
 
@@ -24,11 +24,11 @@ This is a list things you need to use the software and how to install them.
    ```sh
    git clone https://github.com/reb-gaia/academia-frontend-lifecycle
    ```
-2. Install NPM packages
+2. Install packages
    ```sh
    yarn install
    ```
-3. You can run:
+3. You can run using:
    ```sh
    yarn start
    ```
@@ -37,4 +37,4 @@ This is a list things you need to use the software and how to install them.
     The page will reload if you make edits. You will also see any lint errors in the console.
 
 
-Made with ❤️ and JavaScript.
+Made with ❤️ and JavaScript, by Rebeca Gaia.

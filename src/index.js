@@ -6,21 +6,22 @@ class App extends React.Component {
   state = {
     clicou: "ainda não clicou"
   }
-
-  componentDidMount() { // inicio do app
-    console.log("[App] - Apareceu na Tela");
+  componentDidMount(){
+    console.log('[App] - Apareceu na Tela');
   }
-
-  handleClick() {
-    this.setState({clicou: "clicou"});
+  handleClick(){
+    this.setState({
+      clicou: "Clicou"
+    })
   }
-
-  render() {
-    console.log("[App] - Renderizou");
+  render(){
+    console.log("[App] - Renderizou")
     return (
       <div>
         Olá, {this.props.name}, você {this.state.clicou}
-        <button onClick={this.handleClick.bind(this)}>Clique aqui</button>
+        <button onClick={this.handleClick.bind(this)}>
+          Clique aqui
+        </button>
       </div>
     )
   }
@@ -28,7 +29,7 @@ class App extends React.Component {
 
 ReactDOM.render(
   <React.StrictMode>
-    <App name="Rebeca Gaia"/>
+    <App name={"Rebeca Gaia"}/>
   </React.StrictMode>,
   document.getElementById('root')
 );
